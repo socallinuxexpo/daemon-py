@@ -17,7 +17,7 @@ else:
     package_dir = {'': 'src/2.x.x'}
 
 setup(
-    name = 'daemon',
+    name = 'daemon-py',
     version = '0.2',
     description = 'Lightweight and no-nonsense POSIX daemon library for Python (2.x.x/3.x.x)',
     author = 'Fredrick Galoso - Stackd, LLC',
